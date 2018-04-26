@@ -78,8 +78,6 @@ globby(cli.input, {
   if (cli.flags.json) {
     console.log(JSON.stringify(filePaths, null, 2));
   } else {
-    filePaths.forEach(filePath => {
-      console.log(filePath);
-    });
+    console.log(filePaths.join('\n'));
   }
 });
