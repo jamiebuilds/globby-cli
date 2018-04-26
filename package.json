@@ -1,0 +1,60 @@
+{
+  "name": "globby-cli",
+  "version": "0.0.0",
+  "description": "User-friendly glob matching CLI",
+  "repository": "https://github.com/jamiebuilds/globby-cli",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "bin": {
+    "globby": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "all",
+    "array",
+    "directories",
+    "dirs",
+    "expand",
+    "files",
+    "filesystem",
+    "filter",
+    "find",
+    "fnmatch",
+    "folders",
+    "fs",
+    "glob",
+    "globbing",
+    "globs",
+    "gulpfriendly",
+    "match",
+    "matcher",
+    "minimatch",
+    "multi",
+    "multiple",
+    "paths",
+    "pattern",
+    "patterns",
+    "traverse",
+    "util",
+    "utility",
+    "wildcard",
+    "wildcards",
+    "promise",
+    "gitignore",
+    "git",
+    "cli"
+  ],
+  "devDependencies": {
+    "flow-bin": "^0.70.0"
+  },
+  "dependencies": {
+    "arrify": "^1.0.1",
+    "globby": "^8.0.1",
+    "meow": "^5.0.0"
+  }
+}
