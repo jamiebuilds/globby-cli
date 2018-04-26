@@ -1,6 +1,6 @@
 {
   "name": "globby-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "User-friendly glob matching CLI",
   "repository": "https://github.com/jamiebuilds/globby-cli",
   "author": "Jamie Kyle <me@thejameskyle.com>",
